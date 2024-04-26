@@ -1,0 +1,20 @@
+WEBVTT
+
+00:00.000 --> 00:08.000
+Fala, impressionadores! Nesse vídeo eu vou ensinar vocês a fazerem transcrição de áudio usando uma ferramenta nova da OpenAI.
+
+00:08.000 --> 00:15.000
+Essa ferramenta vai permitir você instalar uma única biblioteca e usando o seu código em Python, três, quatro linhas de código,
+
+00:15.000 --> 00:22.000
+você já vai conseguir transcrever qualquer áudio em qualquer língua que você tiver e você ainda vai poder adaptar para diferentes modelos.
+
+00:22.000 --> 00:26.000
+Modelos mais simples que vão rodar mais rápido, modelos mais complexos que vão demorar mais,
+
+00:26.000 --> 00:30.000
+mas que vão provavelmente ter uma precisão melhor, a gente vai ter uma série de possibilidades.
+
+00:30.000 --> 00:32.000
+Bora pro conteúdo do vídeo!
+

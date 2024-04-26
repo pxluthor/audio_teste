@@ -1,0 +1,6 @@
+Fala, impressionadores! Nesse vídeo eu vou ensinar vocês a fazerem transcrição de áudio usando uma ferramenta nova da OpenAI.
+Essa ferramenta vai permitir você instalar uma única biblioteca e usando o seu código em Python, três, quatro linhas de código,
+você já vai conseguir transcrever qualquer áudio em qualquer língua que você tiver e você ainda vai poder adaptar para diferentes modelos.
+Modelos mais simples que vão rodar mais rápido, modelos mais complexos que vão demorar mais,
+mas que vão provavelmente ter uma precisão melhor, a gente vai ter uma série de possibilidades.
+Bora pro conteúdo do vídeo!
